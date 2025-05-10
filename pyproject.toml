@@ -1,0 +1,12 @@
+[project]
+name = "compneuro"
+version = "0.1.0"
+description = "Vijay's workbook for NMA's course on Computational Neuroscience"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.5",
+]
